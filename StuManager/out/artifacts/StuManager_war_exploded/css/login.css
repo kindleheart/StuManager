@@ -1,0 +1,79 @@
+* {
+    padding: 0;
+    margin: 0 auto;
+}
+body {
+    background-image: url(../images/background.png);
+}
+#login {
+    width: 540px;
+    /*height: 276px;*/
+    background-color: white;
+    margin: 160px auto auto;
+    border-radius:6px;
+    padding-bottom: 15px;
+}
+p {
+    font-size: 22px;
+    line-height: 60px;
+    padding-left: 15px;
+}
+#center {
+    border-top: 1px solid #d3d7d4;
+    border-bottom: 1px solid #d3d7d4;
+    padding-bottom: 30px;
+}
+input {
+    border: 1px solid #d3d7d4;
+    border-radius:6px;
+    margin-top: 16px;
+    font-size: 16px;
+}
+#center input {
+    width: 504px;
+    height: 40px;
+    margin-left: 17px;
+    padding-left: 20px;
+}
+#error {
+    margin-top: 15px;
+    width: 479px;
+    height: 55px;
+    background-color: #f1dddd;
+    border-radius:6px;
+    text-align: right;
+    line-height: 55px;
+    font-size: 14px;
+    color: #c67161;
+    padding-right: 25px;
+}
+#left {
+    width: 150px;
+    height: 40px;
+    margin-left: 15px;
+    background-color: white;
+}
+#left:hover {
+    background-color: #e5e5e5;
+}
+#right {
+    color: white;
+    float: right;
+    width: 90px;
+    height: 40px;
+    background-color: #0275d7;
+    margin-right: 15px;
+}
+#right:hover {
+    background-color: #025aa4;
+}
+
+
+
+
+
+
+
+
+
+
